@@ -1,4 +1,4 @@
-### hi, i'm nuvola.
+### hi, i'm cloud.
 
 i build small tools. mostly c, c++, and rust for
 systems work. python and typescript when it makes sense. most of what i
